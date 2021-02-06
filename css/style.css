@@ -248,7 +248,7 @@ section .container > * {
     font-size: 15px;
     justify-content: space-around;
     width: 100%;
-    background-image: url(../img/11.jpg);
+    background-image: url(../img/back1.jpg);
     overflow: hidden;
     background-attachment: fixed;
     background-size: cover;
@@ -263,7 +263,7 @@ section .container > * {
     font-size: 15px;
     justify-content: space-around;
     width: 100%;
-    background-image: url(../img/22.jpg);
+    background-image: url(../img/back3.jpg);
     background-attachment: fixed;
     background-size: cover;
     color: white;
@@ -276,7 +276,7 @@ section .container > * {
     font-size: 15px;
     justify-content: space-around;
     width: 100%;
-    background-image: url(../img/222.jpg);
+    background-image: url(../img/back3.jpg);
     overflow: hidden;
     background-attachment: fixed;
     background-size: cover;
