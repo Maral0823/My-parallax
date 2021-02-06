@@ -276,7 +276,7 @@ section .container > * {
     font-size: 15px;
     justify-content: space-around;
     width: 100%;
-    background-image: url(../img/back3.jpg);
+    background-image: url(../img/back2.jpg);
     overflow: hidden;
     background-attachment: fixed;
     background-size: cover;
